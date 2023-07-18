@@ -1,0 +1,28 @@
+body{
+    background-color: green;
+    font-family:monospace;
+}
+
+body p{
+    font-size: 30;
+}
+
+h1{
+    text-align: center;
+    border: blue 10px solid;
+}
+
+img{
+    border: blue 10px double;
+    width: 500;
+    height: 300;
+}
+
+body{
+    text-align: center;
+    border: blue 10px solid;
+}
+h2{
+    text-align: center;
+    border: blue 10px solid;
+}
