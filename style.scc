@@ -18,7 +18,7 @@ footer{
     font-family: Georgia;
     border:dashed;
     box-shadow: 10px 10px 10px #E3FC3F;
-    padding: 50;
+    padding: 100;
     margin:10;
 }
 img{
@@ -45,7 +45,7 @@ header{
     border:dashed;
     box-shadow: 10px 10px 10px #E3FC3F;
     margin:10;
-    padding: 50
+    padding: 100;
 }
 
 div{
